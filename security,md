@@ -1,0 +1,17 @@
+## Intended users:
+Me Qingyang Gu
+Course Instructor Matthew lamoureux
+TAs For grading purposes
+
+ ## Risk Assesjment
+ The repo caontains the source code for homeworks and labs. mostly python notebooks and json data files for graphjing and data practices. These are of little to no concern as they are nothing unique and special. It is unucesarry for any leaks to be had in the first place as these files are not of value outside of class
+ No personal information is exposed, this github is under UCONN and only uconn users can access. The only information tied to myself is my net id or uconn usename that is public already.
+If the data fells into a random person's hands. They have no use for it as they can only understand it with context of the class.
+
+## Securing Repo
+
+Making it private
+Keeping it updated with the fork
+Account security 2FA
+version control on github 
+No outside users share usage/keys generated
